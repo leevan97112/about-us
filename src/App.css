@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px 5px;
+  width: 100%;
+  height: 100%;
+  background-image: url('./SerImagefond.jpg');
+
+}
+.Services{
+  border:3px solid #1f451a;
+  width:100px;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right:auto;
+  border-radius: 8px;
+  background-color: #fce889;
+  color: #1f451a;
+}
+.ApTitle{
+  text-align: center;
+  font-family: pp-sans-big-light, "Helvetica Neue", Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 400px;
+  color:white;
+  margin: 40px 0px;
+  font-style: normal;}
